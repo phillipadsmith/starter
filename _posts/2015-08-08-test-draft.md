@@ -2,7 +2,7 @@
 layout: blog
 category: blog
 published: false
-title: ""
+title: Adding a title
 ---
 
 
