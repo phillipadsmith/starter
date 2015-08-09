@@ -1,8 +1,9 @@
 ---
-layout: blog
-category: blog
+layout: default
+category: agencies
 published: false
-title: "Test post for issue #836"
+title: Banners
+"modal-id": banners
 ---
 
 ## A New Post
