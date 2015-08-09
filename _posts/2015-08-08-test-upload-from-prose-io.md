@@ -1,10 +1,11 @@
 ---
 layout: blog
 category: blog
-published: false
+published: true
 title: Test upload from prose.io
 blob: null
 ---
+
 
 Test upload
 
