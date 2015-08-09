@@ -3,6 +3,11 @@ layout: post
 category: blog
 author: Staff
 title: This Foo is the Fooest
+splash: ""
+blob: null
+tags: null
+published: false
+keyword: Fixed
 ---
 
 ## A New Post
