@@ -7,6 +7,10 @@ prose:
   relativeLinks: 'http://phillipadsmith.github.io/starter/links.jsonp'
   metadata:
     _posts:
+      - name: "some-field"
+        field:
+          element: "hidden"
+          value: "some-value"
       - name: "category"
         field:
           element: "hidden"
