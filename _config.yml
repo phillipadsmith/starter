@@ -11,14 +11,6 @@ prose:
         field:
           element: "hidden"
           value: "blog"
-      - name: "category2"
-        field:
-          element: "hidden"
-          value: "blog2"
-      - name: "category3"
-        field:
-          element: "hidden"
-          value: "blog3"
       - name: "layout"
         field:
           element: "hidden"
