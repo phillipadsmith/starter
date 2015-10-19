@@ -9,6 +9,7 @@ prose:
     _posts:
       - name: "category"
         field:
+          element: "text"
           value: "some-category"
       - name: "layout"
         field:
